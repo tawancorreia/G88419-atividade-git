@@ -7,4 +7,5 @@ Este repositório contém os artefatos da atividade de controle de versão utili
 
 - [Instalação do Git no Windows](docs/Instalação-Git-Windos.md)
 - [Passo a passo para hospedar o código no GITHUB](docs/Passo_a_passos_para_hospedar_o_código_no_GITHUB.md)
+- [Handbook do GIT - Principais comandos do GIT](docs/handbook-do-git.md)
   
